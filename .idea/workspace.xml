@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="158e584f-e9e9-4ab5-8374-79be8b689fc8" name="Changes" comment="Homework3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/ComparatorByExperience.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/ComparatorByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/ComparatorByTabelNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/HW4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar4/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PhoneBookEmployee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PhoneBookEmployee/EmployeeDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PhoneBookEmployee/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork4/ComparatorByExperience.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/ComparatorByExperience.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork4/ComparatorByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/ComparatorByName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork4/ComparatorByTabelNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/ComparatorByTabelNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork4/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork4/HW4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/HW4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork4/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +54,26 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task1">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+  <component name="RunManager" selected="Application.PhoneBookEmployee.Main">
+    <configuration name="FullProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhoneBookEmployee.FullProgram" />
       <module name="JavaKITSeminar3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="PhoneBookEmployee.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookEmployee.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhoneBookEmployee.Main" />
+      <module name="JavaKITSeminar3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PhoneBookEmployee.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,10 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PhoneBookEmployee.Main" />
+        <item itemvalue="Application.FullProgram" />
         <item itemvalue="Application.task1" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702026218069</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework3">
+      <created>1702440227539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702440227539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
