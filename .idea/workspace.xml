@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="158e584f-e9e9-4ab5-8374-79be8b689fc8" name="Changes" comment="Homework3">
+    <list default="true" id="158e584f-e9e9-4ab5-8374-79be8b689fc8" name="Changes" comment="Homework5">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork6/BadPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork6/GoodPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork6/MontyHallSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork6/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork6/SuperGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,7 +54,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/PK/IdeaProjects/JavaKITSeminar3"
+    "last_opened_file_path": "C:/Users/PK/IdeaProjects/JavaKITSeminar3",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main">
@@ -158,11 +164,19 @@
       <option name="project" value="LOCAL" />
       <updated>1702454437848</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Homework5">
+      <created>1703058552317</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703058552317</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework3" />
+    <MESSAGE value="Homework5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework5" />
   </component>
 </project>
